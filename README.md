@@ -2,9 +2,19 @@
 
 description
 
+col1|col2|col3
+--:|---:|--:
+1|2|3
+1|2|3
+1|2|3
+
 ## Section 1
 
 description
+
+- [x] task one
+- [ ] task two
+- [ ] task three
 
 ### Section 1-1
 
